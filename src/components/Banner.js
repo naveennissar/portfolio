@@ -21,9 +21,15 @@ export const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
+                    Hi! I'm Naveen Nissar,
                     <Typewriter
                       options={{
-                        strings: ["Hi! I'm Naveen Nissar, Web Developer"],
+                        strings: [
+                          "Web Developer",
+                          "Digital Marketing Executive",
+                          "Consultant",
+                          "Associate",
+                        ],
                         autoStart: true,
                         loop: true,
                       }}
